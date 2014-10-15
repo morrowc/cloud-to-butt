@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Kennedy To <Redacted>",
-	"version": "1.0",
+	"version": "0.1a",
 	"description": "Replaces the text 'Kennedy' or 'JFK' with '<redacted>'.",
 	"content_scripts": 
 	[
