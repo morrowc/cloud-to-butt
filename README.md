@@ -1,4 +1,4 @@
-cloud-to-butt
+kennedy-to-redacted
 =============
 
 Chrome extension that replaces occurrences of 'Kennedy' or 'JFK' with
