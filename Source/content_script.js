@@ -31,7 +31,7 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bKeendy\b/g, "<redacted>");
+	v = v.replace(/\bKenndy\b/g, "<redacted>");
 	v = v.replace(/\bkennedy\b/g, "<redacted>");
 	v = v.replace(/\bJFK\b/g, "<redacted>");
 	v = v.replace(/\bjfk\b/g, "<redacted>");
